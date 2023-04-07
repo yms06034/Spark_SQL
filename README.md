@@ -12,6 +12,8 @@ E-commerce 데이터를 활용해 DB -> Spark_SQL -> DB 담아주는 flow 작업
 
 ### RETROSPECTIVE
 - 이번 Spark_SQL를 사용하면서 Spark Backend에 대해 많은 공부를 진행하였다.
+- 또한 본 Dataset을 통해 e-commerce에 대해 많은 이해와 DE 관련하여 더 Deep한 공부를 진행하였다.
+    - 왜 DE가 필요한지에 대해 많은 생각을 하게 된 계기가 되었다
 -   **Catalyst**
     
     -   사용자가 쓴 코드를 Spark에서 실행 가능하게 끔 변환 해주는 엔진
